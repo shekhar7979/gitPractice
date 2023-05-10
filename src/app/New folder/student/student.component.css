@@ -1,0 +1,32 @@
+#save{
+    border: none;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    padding: 0.7rem;
+   margin-top: 2rem;
+   margin-bottom: 3rem;
+   color: #fff;
+    background: linear-gradient(to right,#8d68c5,#e34494);
+}
+#Update{
+    border: none;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    padding: 0.7rem;
+   margin-top: 2rem;
+   margin-bottom: 3rem;
+   color: #fff;
+    background: linear-gradient(to right,blue,red);
+
+}
+#reset{
+    border: none;
+    border-radius: 0.8rem;
+    cursor: pointer;
+    padding: 0.7rem;
+   margin-top: 2rem;
+   margin-bottom: 3rem;
+   color: #fff;
+    background: linear-gradient(to right,blue,red);
+
+}

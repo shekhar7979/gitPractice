@@ -1,0 +1,28 @@
+<div class="container">
+    <h2 class="t-center">Login</h2>
+    <form action="" #form="ngForm" (ngSubmit)="onClick(form)">
+        <div class="inputdiv">
+            <label for="name" class="username">username</label>
+            <div class="userarea">
+                <i class="fa-solid fa-user"></i>
+                <input type="text" name="name" id="name" placeholder="Type your username" ngModel>
+            </div>
+            
+        </div>
+   
+        <div class="inputdiv">
+            <label for="password" class="password">password</label>
+            <div class="userarea">
+                <i class="fa-solid fa-key"></i>
+                <input type="password" name="password" id="password" placeholder="Type your password" ngModel>
+            </div>
+           
+        </div>
+        
+        <button class="btn">Login</button>
+        <span class="forgotpassword">Forgot password?</span>
+    </form>
+    
+  
+</div>
+

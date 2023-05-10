@@ -1,0 +1,30 @@
+{
+  "student": [
+    {
+      "id": 1,
+      "fname": "shekhar",
+      "lname": "jagtap",
+      "addr": "Talegaon dhamdhere",
+      "city": "pune",
+      "state": "Arunachal Pradesh",
+      "zip": 412208,
+      "dob": "2023-04-21",
+      "gen": "Male",
+      "eml": "shekharjagtap7979@gmail.com",
+      "mob": 8308147979
+    },
+    {
+      "fname": "Akshay",
+      "lname": "jagtap",
+      "addr": "Talegaon dhamdhere",
+      "city": "pune",
+      "state": "Maharashtra",
+      "zip": 412208,
+      "dob": "2023-04-23",
+      "gen": "Male",
+      "eml": "shekharjagtap7979@gmail.com",
+      "mob": 9156394919,
+      "id": 2
+    }
+  ]
+}
