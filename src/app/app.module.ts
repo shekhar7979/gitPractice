@@ -11,7 +11,8 @@ import { StudentComponent } from './New folder/student/student.component';
 import { LoginComponent } from './New folder/login/login.component';
 import { FormsModule } from '@angular/forms';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome'
-import{HttpClientModule} from "@angular/common/http"
+import{HttpClientModule} from "@angular/common/http";
+import { CollegeHomeComponent } from './college-home/college-home.component'
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import{HttpClientModule} from "@angular/common/http"
     DepartmentComponent,
     CoursesComponent,
     StudentComponent,
-    LoginComponent
+    LoginComponent,
+    CollegeHomeComponent
   ],
   imports: [
     BrowserModule,
